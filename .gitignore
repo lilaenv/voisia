@@ -1,0 +1,16 @@
+# logs
+logs/
+*.log
+
+# macOS-specific files
+.DS_Store
+
+# node
+node_modules/
+
+# npm
+npm-debug.log*
+
+# yarn
+yarn-debug.log*
+yarn-error.log*
